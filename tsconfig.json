@@ -24,6 +24,7 @@
       "*": ["node_modules/*"]
     },
     "jsx": "react-jsx",
+    "jsxImportSource": "@emotion/react",
   },
   "include": [
     "src/**/*"

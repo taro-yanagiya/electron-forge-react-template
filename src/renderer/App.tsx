@@ -1,5 +1,7 @@
 import { FC } from 'react'
+import MainView from './MainView'
+import './App.css'
 
-const App: FC = () => <h2>Hello world!</h2>
+const App: FC = () => <MainView />
 
 export default App
